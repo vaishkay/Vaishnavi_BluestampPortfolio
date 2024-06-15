@@ -53,6 +53,8 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
+  The first step of my project was to get the MagicMirror software up and running and to be able to edit its modules. To do this, I had to first connect to my RaspberryPi through VS Code, then install and input the various commands and applications through the VS Code terminal. After this I connected to the RaspberryPi through VNC Viewer so I could actually see and edit the MagicMirror.
+
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
